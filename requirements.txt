@@ -1,0 +1,38 @@
+# Web Framework
+Flask==3.0.2
+Werkzeug==3.0.1
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+PyAudio==0.2.14
+whisper==1.1.10
+scipy==1.12.0
+numpy==1.26.4
+
+# Language Processing
+langchain-core==0.1.27
+langchain-groq==0.1.0
+langgraph==0.0.20
+sentence-transformers==2.5.1
+language-tool-python==2.7.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+pydantic==2.6.1
+typing-extensions==4.9.0
+
+# Database
+SQLAlchemy==2.0.27
+
+# Text-to-Speech
+pyttsx3==2.90
+gTTS==2.5.1
+
+# Development Tools
+pytest==8.0.2
+black==24.2.0
+flake8==7.0.0
